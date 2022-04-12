@@ -52,8 +52,8 @@ Abigail watches a video of her favorite tech reviewer discussing the new MacBook
 #### Interaction Flow:
 * Abigail clicks the search bar and types, "Zon"
 * YouTube returns partial query results for "Zon"
-* Abigail keeps typing "ZoneofTeach MacBook 2022"
-* YouTube shows results for "ZoneofTeach MacBook 2022" and results related to
+* Abigail keeps typing "ZoneofTech MacBook 2022"
+* YouTube shows results for "ZoneofTech MacBook 2022" and results related to
 * Abigail clicks the search button
 * YouTube redirects to a results page showing various videos for the macbook 2022
 * Abigail clicks the first video result posted by ZoneofTech
